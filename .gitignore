@@ -1,0 +1,17 @@
+plt/fit.log
+*.RData
+*.err
+*.out
+*lock*
+logs/
+RData/predictions_Cab.RData
+RData/predictions_Car.RData
+RData/predictions_LAI.RData
+RData/*.RData
+RData/*
+*.swp
+*.DS_Store
+submit_script_pca.sh
+data/.~lock.reflectances_obs_0504-1011_all.csv#
+submit_script*
+Rplots.pdf
